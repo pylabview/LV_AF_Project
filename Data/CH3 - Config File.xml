@@ -1,0 +1,16 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>23.1f276</Version>
+<Cluster>
+<Name>In Cluster</Name>
+<NumElts>1</NumElts>
+<Array>
+<Name>Relative Array of paths</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+</Cluster>
+</LVData>
